@@ -80,4 +80,4 @@ These days, I'm leaning more towards open source deveelopment and contributions.
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
 
-</td></tr></table>   
+</td></tr></table> 
