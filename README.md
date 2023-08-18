@@ -18,7 +18,7 @@
 
 
 ### Thanks for stopping by!👍
-Lately, my interests keeps growing towards open source development and community contributions. You just may find an interesting repo here. Feel free to contribute, appreciate and hit me up 😉.  
+Lately, I've been getting more and more interested in open source development and helping out in communities. You might find a cool project on my GitHub page. Feel free to follow, contribute, and let's chat about it 😉.  
   
 
 <br/>  
