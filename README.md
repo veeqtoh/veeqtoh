@@ -18,7 +18,7 @@
 
 
 ### Thanks for stopping by!👍
-These days, I'm leaning more towards open source development and contributions. You just may find an interesting repo here. Feel free to contribute, appreciate and hit me up 😉.  
+Lately, my interests keeps growing towards open source development and community contributions. You just may find an interesting repo here. Feel free to contribute, appreciate and hit me up 😉.  
   
 
 <br/>  
