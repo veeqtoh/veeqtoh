@@ -1,2 +1,3 @@
-### Welcome and thanks for stopping by!
-I give Life to ideas and have fun while at it 😉.
+### Victor Ukam.
+I place text and rectangles in web pages.
+I can also make a web page remember what you type in.
